@@ -1,0 +1,1 @@
+C:\Users\lolob\source\repos\PomodoroApp\pomodoroapp.client\obj\Debug\pomodoroapp.client.esproj.CoreCompileInputs.cache

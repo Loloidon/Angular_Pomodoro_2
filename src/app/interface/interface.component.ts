@@ -178,7 +178,7 @@ export class InterfaceComponent {
   }
   StartDoublePomodoro()
   {
-    this.DoublePomodoro;
+    this.DoublePomodoro();
     if(this.ovstart==false)
     this.Overalltime();
   }
